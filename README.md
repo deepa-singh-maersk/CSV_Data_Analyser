@@ -6,15 +6,16 @@
 - [Features](#features)
 - [User Interface](#user-interface)
 - [Implementation Details](#implementation-details)
- - [Main Function](#main-function)
- - [Data Visualization](#data-visualization)
- - [Advanced Query](#advanced-query)
- - [Claude AI Insights](#claude-ai-insights)
- - [Helper Functions](#helper-functions)
- - [Error Handling and Robustness](#error-handling-and-robustness)
+   - [Main Function](#main-function)
+   - [Data Visualization](#data-visualization)
+   - [Advanced Query](#advanced-query)
+   - [Claude AI Insights](#claude-ai-insights)
+   - [Helper Functions](#helper-functions)
+- [Error Handling and Robustness](#error-handling-and-robustness)
 - [Usage](#usage)
+- [Demo](#demo)
 - [Conclusion](#conclusion)
-- [Impact and Value](#impact-and-value)
+   - [Impact and Value](#impact-and-value)
 
 ## Introduction
 The CSV Data Analyzer is a web application developed as a major project for university coursework. This project aims to provide a comprehensive solution for analyzing and visualizing CSV (Comma-Separated Values) data, offering functionalities such as data visualization, advanced querying, and AI-powered data insights. The application is built using Python and leverages various libraries and APIs to enhance data analysis capabilities.
@@ -249,6 +250,15 @@ import os  # Import os for interacting with the operating system
 - Set the `ANTHROPIC_API_KEY` environment variable on your local machine.
 - Run the application with `streamlit run csv_data_analyser.py`.
 - Upload a CSV file and explore the various features of the data analyzer.
+
+## Demo
+As part of this presentation, I would like to provide a live demonstration of the CSV Data Analyzer web application. Below is a video where I walk through the key features and functionalities of the app, showcasing how users can upload CSV files, visualize data, perform custom queries, and obtain AI-powered insights.
+In the demo, you will see:
+- Uploading a CSV file and selecting the desired chart type, axes, and color coding for data visualization.
+- Writing and executing custom queries using Pandas syntax to perform advanced data analysis.
+- Exploring the Claude AI-powered insights feature by asking questions about the data and receiving AI-generated insights.
+  
+https://github.com/Adineu03/MajorProject/assets/106646056/02f6071d-0f0b-4a0b-a96e-4774e0569ecd
 
 ## Conclusion
 The CSV Data Analyzer is a dynamic solution that combines cutting-edge technologies and AI-driven insights to facilitate robust data analysis and visualization. Its intuitive interface, coupled with interactive features, caters to a wide range of users, from researchers and analysts to data enthusiasts across various industries. By streamlining data-driven decision-making processes and fostering a culture of innovation, the CSV Data Analyzer empowers users to extract actionable intelligence and drive strategic growth initiatives. Its versatility and adaptability make it a valuable asset in navigating the complexities of data analysis, ensuring that organizations and individuals can harness the full potential of their data resources. As we move towards a data-centric future, the CSV Data Analyzer plays a pivotal role in shaping how data is leveraged to derive meaningful insights, make informed decisions, and achieve transformative outcomes that drive progress and innovation.
