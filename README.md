@@ -29,10 +29,10 @@ The CSV Data Analyzer is a web application developed as a major project for univ
 
 ## Features
 The application offers the following features:
-1. Upload CSV File: Users can upload a CSV file containing the data they wish to analyse.
-2. Data Visualization: Users can select from various chart types (Scatter Plot, Bar Chart, Line Chart, Histogram, and Box Plot) and choose the columns to represent the x-axis, y-axis, and color. The selected chart is then displayed using Plotly Express.
-3. Advanced Query: Users can write custom queries using Pandas syntax and execute them on the uploaded data. The query results are displayed in a tabular format, and users can download the results as a CSV file.
-4. Claude AI-powered Data Insights: Users can ask questions about their data in natural language, and the application will leverage the Claude LLM to provide insightful and context-relevant responses based on the data and the user's question.
+1. **Upload CSV File**: Users can upload a CSV file containing the data they wish to analyse.
+2. **Data Visualization**: Users can select from various chart types (Scatter Plot, Bar Chart, Line Chart, Histogram, and Box Plot) and choose the columns to represent the x-axis, y-axis, and color. The selected chart is then displayed using Plotly Express.
+3. **Advanced Query**: Users can write custom queries using Pandas syntax and execute them on the uploaded data. The query results are displayed in a tabular format, and users can download the results as a CSV file.
+4. **Claude AI-powered Data Insights**: Users can ask questions about their data in natural language, and the application will leverage the Claude LLM to provide insightful and context-relevant responses based on the data and the user's question.
 
 ## User Interface
 - The user interface of the CSV Data Analyzer is designed to be intuitive and user-friendly. It features:
