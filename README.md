@@ -20,7 +20,7 @@
 ## Introduction
 The CSV Data Analyzer is a web application developed as a major project for university coursework. This project aims to provide a comprehensive solution for analyzing and visualizing CSV (Comma-Separated Values) data, offering functionalities such as data visualization, advanced querying, and AI-powered data insights. The application is built using Python and leverages various libraries and APIs to enhance data analysis capabilities.
 
-## Technologies Used
+### Technologies Used
 1. Streamlit: Used for building the user interface and creating interactive elements.
 2. Pandas: Utilized for data manipulation, loading CSV files, and executing custom queries.
 3. Plotly Express: Integrated for generating interactive charts and visualizations.
