@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
+   - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [User Interface](#user-interface)
 - [Implementation Details](#implementation-details)
